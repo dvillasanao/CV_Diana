@@ -17,4 +17,4 @@ This is achieved by directing the output of your rmarkdown file to
 
 My CV was made using the `vitae` package for R.
 
-![](https://github.com/dvillasanao/CV_Diana/blob/main/img/CV_img.png)
+![](https://github.com/dvillasanao/CV_Diana/blob/resume/img/CV_img.png?raw=true)
