@@ -1,0 +1,9 @@
+\usepackage{float}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+\usepackage{multicol}
+\usepackage{colortbl}
+\arrayrulecolor{white}
+\usepackage{hhline}
+\definecolor{light-gray}{gray}{0.95}
+\apptocmd{\tightlist}{\setlength{\itemsep}{6pt}}{}{}
