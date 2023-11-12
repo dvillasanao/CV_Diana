@@ -15,7 +15,8 @@ This is achieved by directing the output of your rmarkdown file to
         latex_engine: xelatex
         template: "awesome.tex"
 
-My CV was made using the `vitae` package for R.
+My CV was made using the `vitae` and `googlesheets4` package for R.  
+The link of the resume is just clicking the image below. 👇
 
 <html>
 <body>
