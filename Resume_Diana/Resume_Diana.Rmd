@@ -12,11 +12,8 @@ date: "`r format(Sys.time(), '%Y')`"
 output:
   vitae::awesomecv:
     keep_tex: false
-    show_footer: true
     includes:
       in_header: header.txt
-editor_options: 
-  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -29,7 +26,10 @@ library(fontawesome)
 library(kableExtra)
 library(huxtable)
 library(gridExtra)
+library(latexpdf)
+require(tinytex)
 library(googlesheets4)
+#options(tinytex.verbose = FALSE)
 #gs4_auth()
 #https://nickstrayer.me/datadrivencv/
 ```
@@ -135,6 +135,7 @@ Public Policy &  &  & ArcGIS\\
 Policy Evaluation &  &  & SQL\\
  &  &  & PowerBI | DAX\\
  &  &  & Visual Studio Code\\
+ &  &  & Illustrator\\
 \bottomrule
 \end{tabular}
 \endgroup{}

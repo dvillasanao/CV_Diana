@@ -6,9 +6,7 @@ output: github_document
 
 <!-- badges: start -->
 
-
 <!-- badges: end -->
-
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
@@ -31,6 +29,10 @@ output:
     template: "awesome.tex"
 ```
 
-My CV was made using the `vitae` package for R. 
+My CV was made using the `vitae` and `googlesheets4` package for R.    
+The link of the resume is just clicking the image below. 👇
 
-![](https://github.com/dvillasanao/CV_Diana/blob/resume/img/CV_img.png?raw=true)
+<html>
+<body><a href = "https://drive.google.com/file/d/10iO_jRBLb9ThPyhAtNNnBhq2iAMpQ7PS/view?usp=sharing" target="_blank">
+<img src="https://github.com/dvillasanao/CV_Diana/blob/resume/img/CV_img.png?raw=true"></a></body>
+</html>
