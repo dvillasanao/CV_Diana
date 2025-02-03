@@ -20,7 +20,7 @@ The link of the resume is just clicking the image below. 👇
 
 <html>
 <body>
-<a href = "https://drive.google.com/file/d/10iO_jRBLb9ThPyhAtNNnBhq2iAMpQ7PS/view?usp=sharing" target="_blank">
+<a href = "https://drive.google.com/file/d/1Z-ApKQXkQeSFsAzqf4WAuQiP7JbhgiqK/view?usp=sharing" target="_blank">
 <img src="https://github.com/dvillasanao/CV_Diana/blob/resume/img/CV_img.png?raw=true"></a>
 </body>
 </html>
