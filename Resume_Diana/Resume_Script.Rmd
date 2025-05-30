@@ -1,7 +1,7 @@
 ---
 name: Diana
 surname: Villasana Ocampo
-position: "Population researcher|Actuarial Science | Statitics"
+position: "Socio-Demographic Researcher|Actuarial Science | Statitics"
 address: "Mexico City, Mexico"
 email: "dvillasanao@hotmail.com"
 twitter: "dvillasanao"
@@ -51,7 +51,7 @@ googlesheets4::read_sheet('https://docs.google.com/spreadsheets/d/1zS5_1hPhYhE-T
                           why = Details)
 ```
 
-\faPencil \ COMPLEMENTARY STUDIES
+\faPencil \ EDUCATIONAL BACKGROUND
 ============================
 
 
