@@ -30,13 +30,13 @@ library(kableExtra)
 library(huxtable)
 library(gridExtra)
 library(googlesheets4)
-#gs4_auth()
+gs4_auth()
 #https://nickstrayer.me/datadrivencv/
 ```
 
 \faBookmark  \ SUMMARY
 ============================
-Statistician specialist with skills and experience in demographic planning for the development of public policies at the national level. Among the activities conducted on a daily are the provision of specialized technical advice to different federal and local public administration agencies; as well as the updating and management of surveys, censuses, and vital statistics for the generation of socio-demographic diagnoses and research topics.  
+Statistician specialist with skills and experience in demographic planning for the development of public policies at the national level. Among the activities conducted on a daily basis are the provision of specialized technical advice to different federal and local public administration agencies; as well as the updating and management of surveys, censuses, and vital statistics for the generation of socio-demographic diagnoses and research topics.  
 
 \faGraduationCap \ EDUCATION
 ============================
@@ -139,7 +139,7 @@ tabla %>%
 \midrule
 Sampling and Census & HTML & Project Management & R\\
 Survey & CSS & Verbal Communication & Python\\
-Data Mining & LaTeX & Writting Communication & SPSS Statistics\\
+Data Mining & LaTeX & Writing Communication & SPSS Statistics\\
 Machine Learning & Git & Public Communication & SAS\\
 Data Visualization & Markdown &  & STATA\\
 \addlinespace
